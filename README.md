@@ -1,4 +1,4 @@
-cempluk_college
+cempluk university
 ===============
 
 CEMPLUK is a simple landing page that you can use to create official University Site. A clean, pixel-perfect responsive landing page which will help you turn your visitors into subscribers across any device. Education Landing page.
