@@ -18,7 +18,6 @@ Main Features
 * Valid Markup
 * 3 Pricing Tables
 * Colors easy to setup
-* Included Font Awesome
 
 
 
@@ -29,7 +28,11 @@ Credits and Resources
 * jQuery Easing 1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
 * Backstretch - http://srobbin.com/jquery-plugins/backstretch/
 * Detect Mobile Browsers - http://detectmobilebrowser.com/
-* Google Fonts - https://www.google.com/fonts
-* Font Squirrel - http://www.fontsquirrel.com/
-* Morguefile - http://www.morguefile.com/
+* Fonts - http://fontawesome.io/
+* Images : http://ui.ac.id/
+*   http://onwardstate.com/
+*   http://wingsoveramerica.us/
+*   https://engineering.stanford.edu
+*   http://www.epalettedesignstudio.com/
+* Video - http://www.youtube.com/embed/TgHpgMuXWxY
 * iconmonstr - http://iconmonstr.com/
