@@ -19,3 +19,17 @@ Main Features
 * 3 Pricing Tables
 * Colors easy to setup
 * Included Font Awesome
+
+
+
+Credits and Resources
+
+* jQuery 1.10.2 - http://jquery.com/
+* Bootstrap 3.1.1 - http://getbootstrap.com/
+* jQuery Easing 1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
+* Backstretch - http://srobbin.com/jquery-plugins/backstretch/
+* Detect Mobile Browsers - http://detectmobilebrowser.com/
+* Google Fonts - https://www.google.com/fonts
+* Font Squirrel - http://www.fontsquirrel.com/
+* Morguefile - http://www.morguefile.com/
+* iconmonstr - http://iconmonstr.com/
